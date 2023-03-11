@@ -1,0 +1,21 @@
+[06-Sep-2021 02:30:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/index.php on line 63
+[06-Sep-2021 05:49:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/index.php on line 63
+[21-Mar-2022 07:10:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/index.php on line 63
+[21-Mar-2022 07:11:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/delete-user.php on line 2
+[21-Mar-2022 07:11:21 UTC] PHP Notice:  Undefined variable: hostname in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/delete-user.php on line 3
+[22-Mar-2022 04:09:06 UTC] PHP Notice:  Undefined index: username in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/header.php on line 39
+[22-Mar-2022 04:09:06 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/header.php on line 60
+[22-Mar-2022 04:09:06 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 22
+[22-Mar-2022 04:09:06 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 27
+[22-Mar-2022 04:09:06 UTC] PHP Notice:  Undefined index: user_id in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 30
+[22-Mar-2022 04:09:17 UTC] PHP Notice:  Undefined index: username in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/header.php on line 39
+[22-Mar-2022 04:09:17 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/header.php on line 60
+[22-Mar-2022 04:09:17 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 22
+[22-Mar-2022 04:09:17 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 27
+[22-Mar-2022 04:09:17 UTC] PHP Notice:  Undefined index: user_id in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 30
+[22-Mar-2022 04:10:17 UTC] PHP Notice:  Undefined index: username in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/header.php on line 39
+[22-Mar-2022 04:10:17 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/header.php on line 60
+[22-Mar-2022 04:10:17 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 22
+[22-Mar-2022 04:10:17 UTC] PHP Notice:  Undefined index: user_role in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 27
+[22-Mar-2022 04:10:17 UTC] PHP Notice:  Undefined index: user_id in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/post.php on line 30
+[22-Mar-2022 04:19:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/wwwsdsm/public_html/news.sdsmsolution.online/admin/index.php on line 63

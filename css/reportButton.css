@@ -1,0 +1,15 @@
+/* Report Button CSS */
+
+.btn-report{
+    font-size: 14px;
+    margin: 0px 5px;
+    color: #fff;
+    background-color: orangered;
+    border-color: #dc3545
+}
+
+.btn-report:hover, .btn-report.active, .btn-report.disabled,.btn-report:disabled{
+    color: white;
+    background-color: #918f8f;
+    border-color: #918f8f;
+}

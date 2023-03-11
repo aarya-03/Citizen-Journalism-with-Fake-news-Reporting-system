@@ -1,0 +1,110 @@
+body{
+    background: #f1f1f1;
+    font-family: sans-serif,arial,Helvetica;
+}
+
+a,
+a:hover,
+a:focus{
+    text-decoration: none;
+    outline: none;
+}
+.btn:focus,
+button:focus{
+    outline: none;
+}
+
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+h2.page-heading{
+  margin: 5px 0 30px;
+  padding: 0 5px 10px;
+  border-bottom: 2px solid #333;
+}
+/*-----------------------Top_nav----------------------*/
+#menu0{
+    background-color: orangered;
+}
+#menu0 .col-md-8 a:hover{
+    text-decoration: none;
+}
+#menu0 .col-md-8 a i{
+    color: orangered;
+    margin-left: 10px;
+    font-size: 20px;
+}
+#menu0 .btn-nav{
+    background-color: orangered;
+    border-radius: 0;
+    padding: 10px;
+}
+#menu0 a:hover{
+    text-decoration: none;
+}
+#menu0 span:hover{
+    color: darkcyan;
+}
+#menu0 span a{
+    text-decoration: none;
+}
+#menu0 .top-menu a{
+    padding:0px 3px;
+}
+#menu0 .top-menu .fa{
+    font-size: 20px;
+}
+.login {
+    width: 400px;
+    background-color: #ffffff;
+    box-shadow: 0 0 9px 0 rgba(0, 0, 0, 0.3);
+    margin: 50px auto;
+}
+.login h1 {
+    text-align: center;
+    color:orangered;
+    font-size: 24px;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid #dee0e4;
+}
+.login form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+}
+.login form label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: orangered;
+    color: #ffffff;
+}
+.login form input[type="password"], .login form input[type="text"] {
+    width: 310px;
+    height: 50px;
+    border: 1px solid #dee0e4;
+    margin-bottom: 20px;
+    padding: 0 15px;
+}
+.login form input[type="submit"] {
+    width: 100%;
+    font-family: Helvetica;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: orangered;
+    border: 0;
+    cursor: pointer;
+    font-weight: bold;
+    color: #ffffff;
+    transition: background-color 0.2s;
+}
+.login form input[type="submit"]:hover {
+  background-color: #d53c03;
+    transition: background-color 0.2s;
+}
