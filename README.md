@@ -1,7 +1,7 @@
 # Citizen-Journalism-with-Fake-news-Reporting-system
 This is a CMS (Content management system) based project to encourage Citizen Journalism with an embedded NLP based chatbot to reduce the Fake news articles. This is helpful in preventing the spread of fake news and ensuring the authenticity of the literature for end readers.
 
-Every user will first have to get registered for posting news articles on our website. The username will be unique for every user. After the successful registration, the user is free to publish or post news article on the portal. Both the admin as well as the user can publish the local news articles on the website only after logging in with the appropriate credentials. The news article may contain photos or videos of incidents in support to the article.
+Every user will first have to get registered for posting news articles on our website. After the successful registration, the user is free to publish or post news article on the portal. Both the admin as well as the user can publish the local news articles on the website only after logging in with the appropriate credentials.
 
 This web application relies on a mixture of operating system (Windows), Web server (Apache), database server (MySQL), and programming environment (PHP and JavaScript).
 
