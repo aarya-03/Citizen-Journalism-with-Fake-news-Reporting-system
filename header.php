@@ -108,7 +108,7 @@
   <df-messenger
   intent="WELCOME"
   chat-title="News Assistant"
-  agent-id="7ed14145-6d04-4f75-b70d-90739441efc1"
+  agent-id=<dialogflow-agent-id>
   chat-icon="https://ochatbot.com/wp-content/uploads/2018/03/chatbot-icon.png"
   language-code="en"
 ></df-messenger>
